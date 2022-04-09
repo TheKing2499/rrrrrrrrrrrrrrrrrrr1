@@ -27,7 +27,7 @@
     "listener": "^1.0.1",
     "machinepack-steam": "^0.1.10",
     "mathjs": "^3.16.4",
-    "moment": "^2.19.2",
+    "moment": "^2.29.2",
     "moment-hijri": "^2.0.1",
     "ms": "^2.1.2",
     "mysql": "^2.16.0",
